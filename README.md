@@ -1,4 +1,5 @@
 ##INSTALL
+
 ➠pkg update && pkg upgrade
 
 ➠pkg install python2
@@ -13,6 +14,7 @@
 
 
 ##RUN
+
 Cd Crack
 
 Python2 Crack.py
